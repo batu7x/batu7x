@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:batuprojects@proton.me">
-    <img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" href:"https://tryhackme.com/p/ltc" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" href:"https://tryhackme.com/p/ltc" alt="Contact Me"/>
   </a>
 </p>
 
@@ -18,7 +18,8 @@
 ### ❓ About Me  
 
 - I’m learning **Python**, **Javascript**
-- Contact me: **batuprojects@proton.me**  
+- I am trying to improve in the field of cyber security.
+- Contact me: **batuprojects@proton.me** 
 
 ---
 
