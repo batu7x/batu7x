@@ -3,13 +3,13 @@
 
 <p align="center">
   <a href="mailto:batuprojects@proton.me">
-    <img src="https://w7.pngwing.com/pngs/402/714/png-transparent-email-logo-email-computer-icons-signature-block-mail-miscellaneous-trademark-logo.png" href:"https://tryhackme.com/p/ltc" alt="Contact"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" href:"https://tryhackme.com/p/ltc" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://tryhackme.com/p/ltc" target="_blank">
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4161014" style='border:none;'></iframe>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ltc.png" alt="Tryhackme" />
   </a>
 </p>
 
