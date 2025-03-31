@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <a href="https://tryhackme.com/p/ltc">
-    <img src="https://imgur.com/a/TcIYCSs" href:"https://tryhackme.com/p/ltc" alt="Tryhackme Profile"/>
+    <img src="https://imgur.com/a/TcIYCSs" href:"https://tryhackme.com/p/ltc" alt="TryHackMe Profile"/>
   </a>
 </p>
 <p align="center">
