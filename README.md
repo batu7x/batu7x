@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Batuhan</h1>
-<h3 align="center">Cyber Security Learner || High School Student from Turkey!</h3>
+<h3 align="center">Jr. Pentester / High School Student from Turkey!</h3>
 
 <p align="center">
   <a href="mailto:batuprojects@proton.me">
