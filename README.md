@@ -27,25 +27,17 @@
 
 ---
 
-### 🔨 Languages & More
+### 🔨 Tools & More
 
-<p align="center">
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/> 
-  </a>   
-  <a href="https://www.kali.org" target="_blank"> 
-    <img src="https://www.svgrepo.com/show/330767/kalilinux.svg" alt="Kali Linux" width="50"/> 
-  </a>  
-  <a href="https://wwww.nmap.org" target="_blank"> 
-    <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="NMAP" width="50"/> 
-  </a>
-  <a href="https://portswigger.net/burp" target="_blank"> 
-    <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" alt="Burp Suite" width="50"/> 
-  </a>
-  <a href="https://www.metasploit.com" target="_blank"> 
-    <img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" alt="Metasploit" width="50"/> 
-  </a>    
-    <a href="https://javascript.com" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" alt="Javascript" width="50"/> 
-  </a>  
-</p>
+<div align="center" style="margin-bottom: 20px;"> 
+  <img src="https://img.shields.io/badge/Burp_Suite-FF7A00?style=for-the-badge&logo=burp-suite&color=black" alt="Burp Suite"> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&color=black" alt="MySQL"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=black" alt="Python"> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=black" alt="JavaScript"> 
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&color=black" alt="Kali Linux"> 
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&color=black" alt="Wireshark"> 
+  <img src="https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logo=metasploit&color=black" alt="Metasploit"> 
+  <img src="https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&color=black" alt="Powershell"> 
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=black" alt="Ubuntu">  
+  <img src="https://img.shields.io/badge/OAuth-3C9CD7?style=for-the-badge&logo=oauth&color=black" alt="OAuth">
+</div>
