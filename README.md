@@ -13,7 +13,7 @@
 </p>
 <p align="center">
   <a href="https://tryhackme.com/p/ltc" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/ltc.png" alt="Tryhackme" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ltc.png" alt="Tryhackme badge" />
   </a>
 </p>
 
