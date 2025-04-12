@@ -12,7 +12,7 @@
 </p>
 <p align="center">
   <a href="https://tryhackme.com/p/ltc" target="_blank">
-    <img src="https://media.discordapp.net/attachments/1270373641401663529/1358851831266152570/ltc.png?ex=67f558e2&is=67f40762&hm=5f02da2ebd56bdce2ec698763098cbedcae44582a12e691e218413ffada86fe2&=&format=webp&quality=lossless&width=411&height=110" alt="badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ltc.png" alt="badge" />
   </a>
 </p>
 
